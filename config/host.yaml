@@ -1,0 +1,13 @@
+host:
+  process: Kloa.exe
+  tick_hz: 20
+  log_level: info
+plugins:
+  dir: plugins
+  autoload:
+    - godmode
+    - speed
+  hotkeys:
+    godmode: F1
+    speed: F2
+    inventory: F3

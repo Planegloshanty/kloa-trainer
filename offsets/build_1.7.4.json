@@ -1,0 +1,12 @@
+{
+  "build": "1.7.4",
+  "game": "Kloa.exe",
+  "offsets": {
+    "player.base": 15204352,
+    "player.base.health": 0,
+    "player.base.move_speed": 0,
+    "player.flags.fall_dmg": 0,
+    "inventory.pouch": 15204390,
+    "inventory.pouch.shard_count": 0
+  }
+}

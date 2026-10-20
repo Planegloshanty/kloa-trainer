@@ -1,0 +1,8 @@
+# Kloa - Child of the Forest Trainer (2026)
+pywin32>=306
+pymem>=1.12.0
+keyboard>=0.13.5
+pydantic>=2.6.0
+rich>=13.7.0
+pyyaml>=6.0.1
+pytest>=8.0.0
